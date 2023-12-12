@@ -21,6 +21,7 @@ def predict():
             golongan_darah = float(data['golongan_darah'])      
             rhesus = float(data['rhesus'])
             hamil_ke_brp = float(data['hamil_ke_brp'])
+            jumlah_persalinan = float(data['jumlah_persalinan'])
             jumlah_keguguran = float(data['jumlah_keguguran'])
             kehamilan_diinginkan = float(data['kehamilan_diinginkan'])
             penggunaan_alkohol = float(data['penggunaan_alkohol'])
